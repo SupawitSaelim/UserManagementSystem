@@ -5,7 +5,7 @@ require('dotenv').config();
 
 
 mongoose.connect(
-    process.env.MONGODB_URI,
+    "mongodb+srv://admin:admin@cluster0.gflf5ih.mongodb.net",
     {
         useNewUrlParser: true,
         useUnifiedTopology: true,
