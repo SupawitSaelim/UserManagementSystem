@@ -2,7 +2,7 @@
 
 A simple user management system built with Node.js, Express, and SQLite. This application demonstrates basic CRUD operations (Create, Read, Update, Delete) for managing user information.
 
-![Application Screenshot](screenshot.png)
+![Application Screenshot](/screenshots/app.png)
 
 ## Features
 
